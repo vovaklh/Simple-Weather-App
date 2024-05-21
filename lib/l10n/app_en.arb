@@ -1,0 +1,10 @@
+{
+    "name": "Crescent",
+    "aroundTheWorld": "Around the World",
+    "temperatureInCelciusSign": "°C",
+    "weatherNow": "Weather Now",
+    "now": "Now",
+    "wind": "Wind",
+    "pressure": "Pressure",
+    "hourForecast": "24-Hour Forecast"
+}
